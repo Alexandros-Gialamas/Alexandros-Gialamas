@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Alexandros-Gialamas
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java, Android Studio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Alexandros.P.Gialamas@gmail.com
+👋 Hi, I'm Alexandros Gialamas!
+
+📱 Passionate about Android development and crafting intuitive mobile experiences.
+
+💼 Transitioning from 15+ years in customer service and operations, bringing strong problem-solving and adaptability skills.
+
+🌱 Actively honing my expertise in Kotlin, Jetpack Compose, and Android architecture patterns.
+
+🚀 Check out my project "dueToDo" (in development): [dueToDo](https://github.com/Alexandros-Gialamas/due-to-do)
+
+🤝 Open to collaborating on meaningful Android projects and learning from experienced developers.
+
+📫 Let's connect: [Email](mailto:alexandros.p.gialamas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandros-p-gialamas)
 
 <!---
 Alexandros-Gialamas/Alexandros-Gialamas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
