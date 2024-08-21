@@ -2,11 +2,11 @@
 
 📱 Passionate about Android development and crafting intuitive mobile experiences.
 
-💼 Transitioning from 15+ years in customer service and operations, bringing strong problem-solving and adaptability skills.
+💼 Transitioning from 10+ years in customer service and operations, bringing strong problem-solving and adaptability skills.
 
 🌱 Actively honing my expertise in Kotlin, Jetpack Compose, and Android architecture patterns.
 
-🚀 Check out my project "dueToDo" (in development): [dueToDo](https://github.com/Alexandros-Gialamas/due-to-do)
+🚀 Check out my project "dueToDo" : [dueToDo](https://github.com/Alexandros-Gialamas/due-to-do)
 
 🤝 Open to collaborating on meaningful Android projects and learning from experienced developers.
 
