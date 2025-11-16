@@ -7,7 +7,7 @@ I specialize in building scalable, high-performance native Android applications 
 
 ### 🛠️ Tech Stack
 
-* **Languages:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+* **Languages:** Kotlin <!--  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 * **Android:** Android SDK - Lifecycles - XML - Jetpack Compose - Material Design 3 - Adaptive Layouts 
 * **Architecture:** Clean Architecture - MVVM (Unidirectional Data Flow) - SOLID Principles
 * **Networking:** Ktor - Retrofit - RESTful APIs - gRPC 
@@ -21,11 +21,13 @@ I specialize in building scalable, high-performance native Android applications 
 
 ### 🚀 Featured Work
 
-#### 🏆 [PLEKTO](https://plekto.com) - Sports Training Challenge App (Private Contract)
+#### 🏆 PLEKTO - Sports Training Challenge App (Private Contract)
 *Current Project | Scheduled for Q1 2026 Launch*
 
+* **Website:** [PLEKTO](https://plekto.com).
 * **Role:** Sole Android Architect & Developer.
 * **Description:** A server-driven sports-fitness application featuring challenge-based training, user statistics, and multimedia playback.
+* *(Screenshots will be added upon launch)*
 * **Tech:** Kotlin - Jetpack Compose - Ktor - Room - ExoPlayer - Google TTS - Custom Adaptive UI.
 
 **My Contribution:**
@@ -65,12 +67,15 @@ I specialize in building scalable, high-performance native Android applications 
 
 I am actively seeking new freelance projects and client collaborations. If you need a robust, scalable Android application, let's discuss how I can bring your vision to life.
 
-### 🤝 Let's Connect <p>
-  <a href="https://www.linkedin.com/in/alexandros-p-gialamas" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:alexandros.p.gialamas@gmail.com">
+### 🤝 Let's Connect 
+
+<p>
+<a href="mailto:alexandros.p.gialamas@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexandros-p-gialamas" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
