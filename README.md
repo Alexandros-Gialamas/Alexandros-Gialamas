@@ -37,7 +37,7 @@ I specialize in building scalable, high-performance native Android applications 
 
 
 
-#### 🎓 [SchoolKiller](https://play.google.com/store/apps/details?id=com.schoolkiller) (Internship Project)
+#### 📚 [SchoolKiller](https://play.google.com/store/apps/details?id=com.schoolkiller) (Internship Project)
 
 * **Role:** Core Contributor (Team of 3).
 * **Description:** An AI-powered school assistant app for students and teachers.
@@ -50,7 +50,7 @@ I specialize in building scalable, high-performance native Android applications 
 
 
 
-#### 🔧 [CheapTrip](https://play.google.com/store/apps/details?id=ru.z8.louttsev.bustrainflightmobile.androidApp) (Internship Project)
+#### ✈️ [CheapTrip](https://play.google.com/store/apps/details?id=ru.z8.louttsev.bustrainflightmobile.androidApp) (Internship Project)
 
 * **Role:** Contributor.
 * **Description:** A legacy travel application for finding bus, train, and flight information.
